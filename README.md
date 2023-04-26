@@ -24,6 +24,8 @@
 <img align="left" height="385" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"  />
 
 ###
+<div align="center">
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BernasDzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="180" alt="stats graph"  />
