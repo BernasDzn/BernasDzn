@@ -3,13 +3,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernasDzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernasDzn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="55" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="55" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="55" alt="aftereffects logo"  />
@@ -28,25 +21,13 @@
 
 ###
 
-<div align="left">
-  <a href="https://discordapp.com/users/229196055508549644" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=𝘽𝙀𝙍𝙉𝘼𝙎&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/okayunsan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=okayunsan&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<img align="left" height="300" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"  />
+<img align="left" height="385" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"  />
 
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/qt1w1x136cemlv20bbew86xxe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=BernasDzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernasDzn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
