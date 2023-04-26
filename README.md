@@ -25,6 +25,14 @@
 
 ###
 
+<div align="center">
+  <span><img src="./loginScreen.jpg" height=650 width=300 /></span>
+  <span><img src="./aligner.png" height=50 width=150 /></span> <!--invisible-->
+  <span><img src="./Expenses.jpg" height=650 width=300 /></span>
+</div>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BernasDzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernasDzn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="180" alt="languages graph"  />
