@@ -22,12 +22,10 @@
 ###
 
 <div align="center">
-  <img align="left" height="370" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"/>
-  <span><img align="left" src="./aligner.png" height= width=10 /></span> <!--invisible-->
+  <img align="right" height="370" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"/>
   <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BernasDzn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernasDzn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="180" alt="languages graph"  />
-  <span><img align="left" src="./aligner.png" height= width=10 /></span> <!--invisible-->
 </div>
 </div>
 
