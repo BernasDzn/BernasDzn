@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <span><img src="./aligner.png" height=10 width=100 /></span> <!--invisible-->
+  <span><img src="./aligner.png" height=100 width=10 /></span> <!--invisible-->
 </div>
 
 ###
