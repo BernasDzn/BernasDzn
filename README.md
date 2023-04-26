@@ -21,7 +21,7 @@
 
 ###
 
-<img align="left" height="385" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"/>
+<img align="left" height="370" src="https://media.tenor.com/1oPYW_iBrqUAAAAd/roxy-migurdia.gif"/>
 
 ###
 
