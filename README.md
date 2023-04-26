@@ -26,9 +26,7 @@
 ###
 
 <div align="center">
-  <span><img src="./loginScreen.jpg" height=650 width=300 /></span>
-  <span><img src="./aligner.png" height=50 width=150 /></span> <!--invisible-->
-  <span><img src="./Expenses.jpg" height=650 width=300 /></span>
+  <span><img src="./aligner.png" height=10 width=100 /></span> <!--invisible-->
 </div>
 
 ###
